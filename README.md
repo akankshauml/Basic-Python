@@ -7,7 +7,7 @@ DataStructures
 
 
 Python_Harry_Potter
-Python concepts for beginners covers the following :
+Basic concepts for beginners covers the following :
 
 1) Creating a Dataframe
 2) Selecting Columns Rows of a DataFrame
